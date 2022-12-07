@@ -1,0 +1,68 @@
+
+        .first{
+            font-size: larger;
+            color: blue;
+            border: 2px solid red;
+            border-radius: 20px;
+            margin: 20px;
+            padding: 20px;
+            width: 25%;
+            height: 200px;
+            display: inline-block;
+
+        }
+        h2{
+            text-align: center;
+        }
+        p{
+            text-align: justify;
+        }
+h1{
+    color:#80a821;
+    background-color: aqua;
+    height: 200px;
+    width: 50%;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+#sudipto{
+    font-size: 40px;
+    border: 5px solid red;
+            border-radius: 30px;
+            width: 500px;
+            height: 300px;
+            margin: 30px 20px 24px 44px;
+            padding: 20px 23px 15px 5px;
+}
+        .vlog{
+            border: 5px solid red;
+            border-radius: 30px;
+            width: 600px;
+            height: 300px;
+            border-radius: 30px;
+            margin: 30px 20px 24px 44px;
+            padding: 20px 23px 15px 5px;
+        }
+        .boss{
+            font-size: 50px;
+            color: coral;
+            border: 3px dotted coral;
+            margin-bottom: 15px;
+        }
+        h1.boss{
+            font-size: 200px;
+        }
+        .romantic{
+            color: red;
+        }
+        .new{
+            font-size: larger;
+            background-color: antiquewhite;
+        }
+        .old{
+            background-color: blanchedalmond;
+            border: 2px dotted red;
+            border-radius: 30px;
+        }
+    
